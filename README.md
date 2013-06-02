@@ -10,4 +10,4 @@ It's easy, simple and tested. Can't wait? Go check it out by yourself:
 
 Guide Branch  | Single/Multi Node | Quantum plugin  | Direct Guide Link                                                                                              |
 ------------- | ----------------- | --------------- | ------------------                                                                                             |
-master        | Multi             | OpenVSwitch     | https://github.com/fmyzjs/OpenStack-Grizzly-2NICs-Install-Guide-EN/blob/master/OpenStack_Grizzly_2NICs_Install_Guide.rst |
+master        | Multi             | OpenVSwitch     | https://github.com/fmyzjs/OpenStack-Grizzly-Multi-2NICs-Install-Guide-EN/blob/master/OpenStack_Grizzly_Multi_2NICs_Install_Guide_EN.rst |
