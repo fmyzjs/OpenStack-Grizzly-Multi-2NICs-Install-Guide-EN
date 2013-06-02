@@ -57,7 +57,7 @@ Status: Stable
 
 **Note 2:** This is my current network architecture, you can add as many compute node as you wish.
 
-.. image:: http://i.imgur.com/OhcrgKy.jpg
+.. image:: http://i.imgur.com/NUC8Jdi.png
 
 2. Controller Node
 ===============
