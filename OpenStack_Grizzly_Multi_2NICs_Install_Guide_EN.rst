@@ -242,6 +242,14 @@ Status: Stable
    admin_password = service_pass
 
 * Update /etc/glance/glance-api.conf with::
+   
+   [keystone_authtoken]
+   auth_host = 192.168.8.51
+   auth_port = 35357
+   auth_protocol = http
+   admin_tenant_name = service
+   admin_user = glance
+   admin_password = service_pass
 
    sql_connection = mysql://glanceUser:glancePass@192.168.8.51/glance
 
@@ -251,6 +259,15 @@ Status: Stable
    flavor = keystone
    
 * Update the /etc/glance/glance-registry.conf with::
+
+
+   [keystone_authtoken]
+   auth_host = 192.168.8.51
+   auth_port = 35357
+   auth_protocol = http
+   admin_tenant_name = service
+   admin_user = glance
+   admin_password = service_pass
 
    sql_connection = mysql://glanceUser:glancePass@192.168.8.51/glance
 
